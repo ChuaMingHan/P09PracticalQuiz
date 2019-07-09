@@ -1,0 +1,4 @@
+#Tue Jul 09 16:01:19 SGT 2019
+base.0=D\:\\C346\\Workspace\\C347L09\\P09PracticalQuiz\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
